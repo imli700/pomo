@@ -10,9 +10,9 @@ Pomo is almost the simplest possible pomodoro timer.
 
 Attention: Always inspect scripts before running
 
-Simply run 
+Clone the repo to your local machine. Then simply run the following command from the repo:
 ```bash 
-install.sh
+./install.sh
 ```
 
 **If you have this error `bash: pomo: command not found`**
